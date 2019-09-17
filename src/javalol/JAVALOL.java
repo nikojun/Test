@@ -17,6 +17,8 @@ public class JAVALOL {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("Hello World!");
+        System.out.print("Tää on uutta!");
+        
     }
     
 }
